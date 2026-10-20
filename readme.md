@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Azzal Aladun
+# 👋 Hi, I'm Achmad Azza Alhaqi
 
 ### Informatics Engineering Student | AI & Computer Vision | Geospatial Technology
 
